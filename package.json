@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@testing-library/dom": "^8.1.0"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
